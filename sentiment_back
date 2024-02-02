@@ -1,0 +1,598 @@
+/opt/conda/lib/python3.10/site-packages/pyannote/audio/core/io.py:43: UserWarning: torchaudio._backend.set_audio_backend has been deprecated. With dispatcher enabled, this function is no-op. You can remove the function call.
+  torchaudio.set_audio_backend("soundfile")
+/opt/conda/lib/python3.10/site-packages/torch_audiomentations/utils/io.py:27: UserWarning: torchaudio._backend.set_audio_backend has been deprecated. With dispatcher enabled, this function is no-op. You can remove the function call.
+  torchaudio.set_audio_backend("soundfile")
+torchvision is not available - cannot save figures
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+127.0.0.1 - - [27/Jan/2024 16:43:03] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 16:43:29] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 16:46:19] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 16:49:47] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 16:51:12] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 16:51:12] "GET /uploads/undefined HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 16:53:34] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 16:56:18] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 16:56:18] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 16:56:19] "GET /uploads/undefined HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 16:58:39] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 16:59:04] "GET /uploads/undefined HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 16:59:55] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 17:01:37] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 17:01:42] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 17:01:43] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 17:03:28] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 17:05:28] "GET /.env HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 17:05:28] "POST / HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 17:16:38] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 17:17:46] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 17:17:47] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 17:19:05] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 17:19:08] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 17:19:08] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 17:21:43] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 17:23:23] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 17:23:31] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 17:25:50] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 17:25:51] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 17:25:51] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 17:30:39] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 17:34:34] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 17:36:55] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 17:52:58] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 17:52:58] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 17:53:11] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 17:55:31] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 17:55:32] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 17:57:46] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 17:57:47] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 18:00:51] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 18:01:22] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 18:01:22] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 18:03:31] "GET /.env HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:03:33] "POST / HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:03:43] "GET / HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:04:04] "GET / HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:04:04] "GET /showLogin.cc HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:04:11] "GET /uploads/undefined HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:04:25] "GET /sugar_version.json HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:04:43] "GET / HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:04:44] "GET /cf_scripts/scripts/ajax/ckeditor/ckeditor.js HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:04:58] "GET /uploads/undefined HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:05:04] "GET /solr/ HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:05:05] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 18:05:23] "GET /favicon.ico HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:05:34] "GET / HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:05:34] "GET /api/session/properties HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:05:46] "GET /Telerik.Web.UI.WebResource.axd?type=rau HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:05:53] "GET /favicon-32x32.png HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:05:53] "GET /index.jsp HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:05:59] "GET /favicon.ico HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:05:59] "GET /admin/ HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:06:02] "GET /cgi-bin/authLogin.cgi HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:06:08] "GET /sitecore/shell/sitecore.version.xml HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:07:25] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 18:07:26] "GET /uploads/undefined HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:26:14] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 18:29:57] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 18:33:30] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 18:39:55] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 18:43:27] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 18:46:41] "GET / HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:47:31] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 18:49:52] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 18:49:52] "GET /uploads/undefined HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:50:27] "GET /uploads/undefined HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:50:33] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 18:52:53] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 18:52:54] "GET /uploads/undefined HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:56:36] "GET /.env HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 18:56:36] "POST / HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 19:00:55] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 19:04:28] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 19:27:17] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 19:27:22] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 19:27:23] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 19:27:47] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 19:31:13] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 19:36:10] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 19:36:29] "GET /.env HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 19:36:29] "POST / HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 19:36:33] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 19:38:53] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 19:38:54] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 19:38:54] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 19:46:55] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 19:50:30] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 20:05:09] "GET / HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 20:13:17] "GET / HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 20:13:55] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 20:17:28] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [27/Jan/2024 20:18:41] "GET / HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 20:32:35] "GET /.env HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 20:32:36] "POST / HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 20:45:49] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 20:48:41] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 20:48:41] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [27/Jan/2024 21:02:21] "GET / HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 21:38:30] "GET / HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 21:38:30] "GET /favicon.ico HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 21:55:04] "GET / HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 21:59:11] "GET /.env HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 21:59:11] "POST / HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 22:01:31] "GET / HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 22:02:37] "GET /.env HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 22:02:37] "POST / HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 23:22:22] "GET /nginx_status HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 23:38:22] "GET /.env HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 23:45:21] "GET /.env HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 23:45:22] "POST / HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 23:55:33] "GET /.env HTTP/1.0" 404 -
+127.0.0.1 - - [27/Jan/2024 23:55:33] "POST / HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:16:54] "HEAD / HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:16:55] "GET / HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:16:55] "GET /favicon.ico HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:27:33] "GET /docker-compose.yml HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:27:33] "GET /backup.sh HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:27:33] "GET /main.js HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:27:33] "GET /config.py HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:27:34] "GET /log HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:27:34] "GET /log.py HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:27:34] "GET /build.sh HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:27:34] "GET /deploy.sh HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:27:34] "GET /.aws/credentials HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:27:35] "GET /config/index.js HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:27:35] "GET /default.json HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:27:35] "GET /aws.properties HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:27:35] "GET /app.js HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:27:35] "GET /s3.js HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:27:36] "GET /config.js HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:27:36] "POST / HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:27:36] "GET /api/.env HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:56:38] "GET / HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:56:38] "GET /form.html HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:56:38] "GET /upl.php HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:56:39] "GET /geoip/ HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:56:39] "GET /favicon.ico HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:56:39] "GET /1.php HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:56:39] "GET /bundle.js HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:56:39] "GET /files/ HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:56:40] "GET /systembc/password.php HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:56:40] "GET /password.php HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 00:56:40] "GET /info.php HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 01:01:34] "GET / HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 01:19:31] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 01:20:02] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 01:20:58] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 01:21:29] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 01:21:30] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 01:22:19] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 01:23:44] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 01:28:57] "GET /.env HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 01:28:59] "POST / HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 01:29:57] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 01:30:28] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 01:31:38] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 01:31:44] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 01:32:01] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 01:32:13] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 01:32:20] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 01:34:16] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 01:35:35] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 01:37:00] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 01:37:47] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 01:37:49] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 01:38:20] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 01:38:20] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 01:40:12] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 01:43:33] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 01:45:02] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 01:45:03] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 01:47:24] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 01:47:58] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 01:49:59] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 01:50:02] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 01:52:20] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 01:52:21] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 01:54:54] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 01:54:54] "GET /uploads/Call1_Stereo_audio.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 02:04:32] "GET / HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 02:08:05] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 02:09:07] "GET /.env HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 02:09:08] "POST / HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 02:09:12] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 02:11:31] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 02:11:31] "GET /uploads/Call%201%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 02:11:51] "GET /uploads/Call%201%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 02:11:51] "GET /uploads/Call%201%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 02:17:52] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 02:17:56] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 02:20:58] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 02:21:02] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 02:21:21] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 02:21:30] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 02:21:32] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+[2024-01-28 02:21:36,441] ERROR in app: Exception on /get_sentiments [POST]
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/opt/conda/lib/python3.10/site-packages/flask_cors/extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/ubuntu/Sentiment-Analysis-Python-backend/app.py", line 95, in get_sentiments
+    transcription = model.transcribe(path)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/transcribe.py", line 279, in transcribe
+    result: DecodingResult = decode_with_fallback(mel_segment)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/transcribe.py", line 195, in decode_with_fallback
+    decode_result = model.decode(segment, options)
+  File "/opt/conda/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/decoding.py", line 824, in decode
+    result = DecodingTask(model, options).run(mel)
+  File "/opt/conda/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/decoding.py", line 737, in run
+    tokens, sum_logprobs, no_speech_probs = self._main_loop(audio_features, tokens)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/decoding.py", line 687, in _main_loop
+    logits = self.inference.logits(tokens, audio_features)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/decoding.py", line 163, in logits
+    return self.model.decoder(tokens, audio_features, kv_cache=self.kv_cache)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 211, in forward
+    x = block(x, xa, mask=self.mask, kv_cache=kv_cache)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 136, in forward
+    x = x + self.attn(self.attn_ln(x), mask=mask, kv_cache=kv_cache)[0]
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 90, in forward
+    wv, qk = self.qkv_attention(q, k, v, mask)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 108, in qkv_attention
+    return (w @ v).permute(0, 2, 1, 3).flatten(start_dim=2), qk.detach()
+RuntimeError: Expected size for first two dimensions of batch2 tensor to be: [8, 236] but got: [8, 237].
+127.0.0.1 - - [28/Jan/2024 02:21:36] "POST /get_sentiments HTTP/1.0" 500 -
+127.0.0.1 - - [28/Jan/2024 02:22:26] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+[2024-01-28 02:22:33,767] ERROR in app: Exception on /get_sentiments [POST]
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/opt/conda/lib/python3.10/site-packages/flask_cors/extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/ubuntu/Sentiment-Analysis-Python-backend/app.py", line 95, in get_sentiments
+    transcription = model.transcribe(path)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/transcribe.py", line 279, in transcribe
+    result: DecodingResult = decode_with_fallback(mel_segment)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/transcribe.py", line 195, in decode_with_fallback
+    decode_result = model.decode(segment, options)
+  File "/opt/conda/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/decoding.py", line 824, in decode
+    result = DecodingTask(model, options).run(mel)
+  File "/opt/conda/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/decoding.py", line 737, in run
+    tokens, sum_logprobs, no_speech_probs = self._main_loop(audio_features, tokens)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/decoding.py", line 687, in _main_loop
+    logits = self.inference.logits(tokens, audio_features)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/decoding.py", line 163, in logits
+    return self.model.decoder(tokens, audio_features, kv_cache=self.kv_cache)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 211, in forward
+    x = block(x, xa, mask=self.mask, kv_cache=kv_cache)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 136, in forward
+    x = x + self.attn(self.attn_ln(x), mask=mask, kv_cache=kv_cache)[0]
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 90, in forward
+    wv, qk = self.qkv_attention(q, k, v, mask)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 104, in qkv_attention
+    qk = qk + mask[:n_ctx, :n_ctx]
+RuntimeError: The size of tensor a (230) must match the size of tensor b (3) at non-singleton dimension 3
+127.0.0.1 - - [28/Jan/2024 02:22:33] "POST /get_sentiments HTTP/1.0" 500 -
+127.0.0.1 - - [28/Jan/2024 02:22:34] "GET /uploads/Call%202%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 02:23:56] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 02:23:56] "GET /uploads/Call%201%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 02:24:32] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 02:26:25] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 02:26:32] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+[2024-01-28 02:26:42,447] ERROR in app: Exception on /get_sentiments [POST]
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/opt/conda/lib/python3.10/site-packages/flask_cors/extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/ubuntu/Sentiment-Analysis-Python-backend/app.py", line 95, in get_sentiments
+    transcription = model.transcribe(path)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/transcribe.py", line 279, in transcribe
+    result: DecodingResult = decode_with_fallback(mel_segment)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/transcribe.py", line 195, in decode_with_fallback
+    decode_result = model.decode(segment, options)
+  File "/opt/conda/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/decoding.py", line 824, in decode
+    result = DecodingTask(model, options).run(mel)
+  File "/opt/conda/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/decoding.py", line 737, in run
+    tokens, sum_logprobs, no_speech_probs = self._main_loop(audio_features, tokens)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/decoding.py", line 687, in _main_loop
+    logits = self.inference.logits(tokens, audio_features)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/decoding.py", line 163, in logits
+    return self.model.decoder(tokens, audio_features, kv_cache=self.kv_cache)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 211, in forward
+    x = block(x, xa, mask=self.mask, kv_cache=kv_cache)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 136, in forward
+    x = x + self.attn(self.attn_ln(x), mask=mask, kv_cache=kv_cache)[0]
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 90, in forward
+    wv, qk = self.qkv_attention(q, k, v, mask)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 104, in qkv_attention
+    qk = qk + mask[:n_ctx, :n_ctx]
+RuntimeError: The size of tensor a (64) must match the size of tensor b (3) at non-singleton dimension 3
+127.0.0.1 - - [28/Jan/2024 02:26:42] "POST /get_sentiments HTTP/1.0" 500 -
+127.0.0.1 - - [28/Jan/2024 02:26:42] "GET /uploads/Call%201%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 02:26:43] "GET /uploads/Call%201%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 02:27:08] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 02:29:35] "GET /uploads/Call%201%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 02:29:43] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 02:29:46] "GET /uploads/Call%202%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 02:29:47] "GET /uploads/Call%202%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 02:29:58] "GET /uploads/Call%202%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 02:31:18] "GET / HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 02:31:36] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 02:33:08] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 02:33:54] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 02:36:09] "GET / HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 02:38:13] "GET / HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 02:39:11] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 02:40:21] "GET /.env HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 02:40:23] "POST / HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 02:44:23] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 02:44:24] "GET /uploads/Call%203%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 02:50:12] "GET /uploads/Call%203%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 02:50:12] "GET /uploads/Call%203%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 02:55:36] "GET /uploads/Call%203%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 02:58:47] "GET /.env HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 02:58:47] "POST / HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 03:01:14] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 03:01:23] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 03:01:27] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 03:04:39] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 03:04:40] "GET /uploads/Call%204%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 03:33:28] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 03:36:30] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 03:36:48] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 03:39:51] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 03:39:51] "GET /uploads/Call%204%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 03:39:51] "GET /uploads/Call%204%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 03:43:43] "GET /uploads/Call%204%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 03:48:01] "GET /uploads/Call%204%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 03:49:13] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 03:52:25] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 03:52:26] "GET /uploads/Call%205%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 03:53:06] "GET /uploads/Call%205%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 03:53:06] "GET /uploads/Call%205%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 03:57:24] "GET /uploads/Call%205%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 04:04:09] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 04:04:53] "POST /get_file_list HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 04:05:02] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 04:05:12] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+[2024-01-28 04:05:22,445] ERROR in app: Exception on /get_sentiments [POST]
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/opt/conda/lib/python3.10/site-packages/flask_cors/extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/ubuntu/Sentiment-Analysis-Python-backend/app.py", line 95, in get_sentiments
+    transcription = model.transcribe(path)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/transcribe.py", line 279, in transcribe
+    result: DecodingResult = decode_with_fallback(mel_segment)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/transcribe.py", line 195, in decode_with_fallback
+    decode_result = model.decode(segment, options)
+  File "/opt/conda/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/decoding.py", line 824, in decode
+    result = DecodingTask(model, options).run(mel)
+  File "/opt/conda/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/decoding.py", line 737, in run
+    tokens, sum_logprobs, no_speech_probs = self._main_loop(audio_features, tokens)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/decoding.py", line 687, in _main_loop
+    logits = self.inference.logits(tokens, audio_features)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/decoding.py", line 163, in logits
+    return self.model.decoder(tokens, audio_features, kv_cache=self.kv_cache)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 211, in forward
+    x = block(x, xa, mask=self.mask, kv_cache=kv_cache)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 136, in forward
+    x = x + self.attn(self.attn_ln(x), mask=mask, kv_cache=kv_cache)[0]
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 90, in forward
+    wv, qk = self.qkv_attention(q, k, v, mask)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 104, in qkv_attention
+    qk = qk + mask[:n_ctx, :n_ctx]
+RuntimeError: The size of tensor a (204) must match the size of tensor b (160) at non-singleton dimension 3
+127.0.0.1 - - [28/Jan/2024 04:05:22] "POST /get_sentiments HTTP/1.0" 500 -
+127.0.0.1 - - [28/Jan/2024 04:07:35] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 04:07:36] "GET /uploads/Call%201%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 04:08:04] "GET /uploads/Call%201%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 04:08:05] "GET /uploads/Call%201%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 04:10:27] "GET /.env HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 04:10:28] "POST / HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 04:13:04] "GET /.env HTTP/1.0" 404 -
+127.0.0.1 - - [28/Jan/2024 04:27:19] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 04:29:39] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 04:29:40] "GET /uploads/Call%201%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 04:30:16] "GET /uploads/Call%201%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 04:30:17] "GET /uploads/Call%201%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 04:34:46] "GET /uploads/Call%201%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 04:37:45] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 04:40:47] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 04:41:00] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 04:41:22] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+[2024-01-28 04:41:26,614] ERROR in app: Exception on /get_sentiments [POST]
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/opt/conda/lib/python3.10/site-packages/flask_cors/extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/ubuntu/Sentiment-Analysis-Python-backend/app.py", line 95, in get_sentiments
+    transcription = model.transcribe(path)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/transcribe.py", line 279, in transcribe
+    result: DecodingResult = decode_with_fallback(mel_segment)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/transcribe.py", line 195, in decode_with_fallback
+    decode_result = model.decode(segment, options)
+  File "/opt/conda/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/decoding.py", line 824, in decode
+    result = DecodingTask(model, options).run(mel)
+  File "/opt/conda/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/decoding.py", line 737, in run
+    tokens, sum_logprobs, no_speech_probs = self._main_loop(audio_features, tokens)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/decoding.py", line 687, in _main_loop
+    logits = self.inference.logits(tokens, audio_features)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/decoding.py", line 163, in logits
+    return self.model.decoder(tokens, audio_features, kv_cache=self.kv_cache)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 211, in forward
+    x = block(x, xa, mask=self.mask, kv_cache=kv_cache)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 136, in forward
+    x = x + self.attn(self.attn_ln(x), mask=mask, kv_cache=kv_cache)[0]
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 90, in forward
+    wv, qk = self.qkv_attention(q, k, v, mask)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 108, in qkv_attention
+    return (w @ v).permute(0, 2, 1, 3).flatten(start_dim=2), qk.detach()
+RuntimeError: Expected size for first two dimensions of batch2 tensor to be: [8, 288] but got: [8, 287].
+127.0.0.1 - - [28/Jan/2024 04:41:26] "POST /get_sentiments HTTP/1.0" 500 -
+[2024-01-28 04:41:26,633] ERROR in app: Exception on /get_sentiments [POST]
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/opt/conda/lib/python3.10/site-packages/flask_cors/extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/conda/lib/python3.10/site-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/ubuntu/Sentiment-Analysis-Python-backend/app.py", line 95, in get_sentiments
+    transcription = model.transcribe(path)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/transcribe.py", line 146, in transcribe
+    _, probs = model.detect_language(mel_segment)
+  File "/opt/conda/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/decoding.py", line 57, in detect_language
+    logits = model.logits(x, mel)[:, 0]
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 260, in logits
+    return self.decoder(tokens, audio_features)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 211, in forward
+    x = block(x, xa, mask=self.mask, kv_cache=kv_cache)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 136, in forward
+    x = x + self.attn(self.attn_ln(x), mask=mask, kv_cache=kv_cache)[0]
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1518, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1527, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 90, in forward
+    wv, qk = self.qkv_attention(q, k, v, mask)
+  File "/opt/conda/lib/python3.10/site-packages/whisper/model.py", line 108, in qkv_attention
+    return (w @ v).permute(0, 2, 1, 3).flatten(start_dim=2), qk.detach()
+RuntimeError: Expected size for first two dimensions of batch2 tensor to be: [8, 287] but got: [8, 288].
+127.0.0.1 - - [28/Jan/2024 04:41:26] "POST /get_sentiments HTTP/1.0" 500 -
+127.0.0.1 - - [28/Jan/2024 04:41:27] "GET /uploads/Call%205%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 04:41:27] "GET /uploads/Call%201%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 04:41:27] "GET /uploads/Call%201%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 04:43:04] "GET /uploads/Call%201%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 04:43:19] "OPTIONS /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 04:45:38] "POST /get_sentiments HTTP/1.0" 200 -
+127.0.0.1 - - [28/Jan/2024 04:45:39] "GET /uploads/Call%201%20Recording.wav HTTP/1.0" 206 -
+127.0.0.1 - - [28/Jan/2024 04:45:39] "GET /uploads/Call%201%20Recording.wav HTTP/1.0" 206 -
